@@ -85,10 +85,10 @@ WORKDIR /usr/share/nginx/html
 COPY . .
 EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
+```
+
 Build & Push
-bash
-Copy
-Edit
+```bash
 docker build -t freestyle .
 docker tag freestyle:latest ghanshyamramole/freestyle:v1
 docker push ghanshyamramole/freestyle:v1
