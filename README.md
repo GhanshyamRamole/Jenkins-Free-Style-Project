@@ -8,7 +8,9 @@ The goal of this project is to design and implement a fully automated CI/CD pipe
 
 ---
 ### Documentation 
-[Documention](https://www.linkedin.com/posts/ghanshyamramole_jenkins-freestyle-project-activity-7343157776900132865-cXBW?utm_source=share&utm_medium=member_desktop&rcm=ACoAADP7oEkBhsuBr4OLIie9RTcVjFIYP93znAg) 
+
+view here --> [Documention](https://www.linkedin.com/posts/ghanshyamramole_jenkins-freestyle-project-activity-7343157776900132865-cXBW?utm_source=share&utm_medium=member_desktop&rcm=ACoAADP7oEkBhsuBr4OLIie9RTcVjFIYP93znAg)
+
 ---
 
 ## 🧰 Tools & Technologies
