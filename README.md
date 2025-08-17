@@ -7,6 +7,9 @@
 The goal of this project is to design and implement a fully automated CI/CD pipeline using **Jenkins Freestyle Jobs**, hosted on **AWS EC2**, with **Docker** for containerization and **SonarQube** for code quality analysis. It automates build, test, analysis, and deployment to enhance development efficiency and reliability.
 
 ---
+### Documentation 
+[Documention](https://www.linkedin.com/posts/ghanshyamramole_jenkins-freestyle-project-activity-7343157776900132865-cXBW?utm_source=share&utm_medium=member_desktop&rcm=ACoAADP7oEkBhsuBr4OLIie9RTcVjFIYP93znAg) 
+---
 
 ## 🧰 Tools & Technologies
 
