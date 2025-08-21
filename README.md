@@ -8,7 +8,7 @@ The goal of this project is to design and implement a fully automated CI/CD pipe
 
 ---
 ## Architecture
-![Architecture](../img/)
+![Architecture](.img/archtecture.png)
 
 ---
 ### Documentation 
